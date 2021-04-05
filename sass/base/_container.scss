@@ -1,0 +1,23 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  text-align: center;
+
+  .header & {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    align-items: center;
+  }
+  .footer & {
+    text-align: left;
+    display: flex;
+    align-items: baseline;
+  }
+
+  & .second-title {
+    margin-bottom: 50px;
+  }
+}
