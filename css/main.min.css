@@ -779,7 +779,7 @@ img {
 .social-media__link:focus {
   background-color: var(--acent-color);
 }
-.social-media__icon {
+.footer-icon {
   fill: #ffffff;
 }
 .footer-form-wraper {
